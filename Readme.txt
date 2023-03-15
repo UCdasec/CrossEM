@@ -1,4 +1,4 @@
-This project examines the impact of EM probe locations on the results of deep-learning side-channel attacks. 
+This on-going project examines the impact of EM probe locations on the results of deep-learning side-channel attacks. 
 
 Datasets (Internal use only at this point) 
 
