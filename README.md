@@ -2,12 +2,12 @@
 
 This on-going project examines the impact of EM probe locations on the results of deep-learning side-channel attacks. 
 
-** The dataset and code are for research purpose only**
+**The dataset and code are for research purpose only**
 
 ## Reference
 When reporting results that use the dataset or code in this repository, please cite the paper below:
 
-## Datasets (**Internal use only at this point**) 
+## Datasets (**Lab members only at this point**) 
 
 Our datasets used in this study can be accessed through the link below (last modified March 2023):
 
