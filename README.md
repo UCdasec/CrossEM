@@ -7,7 +7,7 @@ This on-going project examines the impact of EM probe locations on the results o
 ## Reference
 When reporting results that use the dataset or code in this repository, please cite the paper below:
 
-## Datasets (**Lab members only at this point**) 
+## Datasets (**Access is limited to our lab members only at this point**) 
 
 Our datasets used in this study can be accessed through the link below (last modified March 2023):
 
