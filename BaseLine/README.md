@@ -1,20 +1,20 @@
-# CNN
+# CNN And MSB
 We leverage the ASCAD Model for the purpose of the CNN study
 | Layer            | Hyperparameters                                                    |
 |------------------|--------------------------------------------------------------------|
 | Conv 1           | filters: 64; kernel size: 11; stride: 2; Relu                     |
 | Conv 2           | filters: 128; kernel size: 11; stride: 2; Relu                    |
 | Conv 3           | filters: 256; kernel size: 11; stride: 2; Relu                    |
-| Conv 4$\sim$5    | filters: 512; kernel size: 11; stride: 2; Relu                    |
-| AvgPool 1$\sim$5 | pooling size: 2; stride: 2                                        |
-| Dense 1$\sim$2   | No. of neurons: 4096; Relu                                        |
-| Output           | No. of neurons: {9} (HW) or 256 (ID); Softmax                     |
+| Conv 4~5         | filters: 512; kernel size: 11; stride: 2; Relu                    |
+| AvgPool 1~5      | pooling size: 2; stride: 2                                        |
+| Dense 1~2        | No. of neurons: 4096; Relu                                        |
+| Output           | No. of neurons: {9} (HW) or 256 (ID)/ {2} for MSB; Softmax                     |
 
 
 # MLP
 | Layer            | Hyperparameters                    |
 |------------------|------------------------------------|
-| Dense 1$\sim$5   | No. of neurons: 200; ReLU          |
+| Dense 1~5        | No. of neurons: 200; ReLU          |
 | Output           | No. of neurons: {9} (HW) or 256 (ID); Softmax |
 
 
