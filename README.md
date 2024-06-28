@@ -16,7 +16,8 @@ two types of pitfalls that could lead to over-optimistic attack results in cross
 dataset (with 3 million EM traces from 9 probe locations over multiple targets) for benchmarking and reproducibility of side-channel
 attacks tackling domain shifts over EM traces 
 
-# THIS PAPER ESTABLISHES A LARGE SCALE EM DATASET FOR SIDE CHANNEL ATTACKS FROM 8-bit and 32-bit targets with TinYAES and 9 differnt locations samples for each chip
+# This paper establishes a large-scale EM dataset for side-channel attacks from 8-bit and 32-bit targets using TinyAES, with samples taken from 9 different locations for each chip.
+
 
 **The dataset and code are for research purpose only**
 
