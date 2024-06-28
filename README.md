@@ -6,7 +6,8 @@ This on-going project examines the impact of EM probe locations on the results o
 
 ## Reference
 When reporting results that use the dataset or code in this repository, please cite the paper below:
-Mabon Ninan,Evan Nimmo,Shane Reilly, Boyang Wang "A Second Look at the Portability of Deep Learning Side-Channel Attacks over EM Traces"
+Mabon Ninan, Evan Nimmo, Shane Reilly, Channing Smith, Wenhai Sun, Boyang Wang, and John M. Emmert. 2024. "A Second Look at the Portability of Deep Learning Side-Channel Attacks over EM Traces".The 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024), Padua (Italy)
+
 
 ## Requirements
 This project is written in Python 3.8, Tensorflow 2.3.1 and Pytorch 2.0 . 
