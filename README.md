@@ -1,4 +1,4 @@
-# CrossEM A Second Look at the Portability of Deep Learning Side-Channel Attacks over EM Traces
+# A Second Look at the Portability of Deep Learning Side-Channel Attacks over EM Traces
 
 Deep learning side-channel attacks can recover encryption keys on a target by analyzing power consumption or electromagnetic (EM)
 signals. However, they are less portable when there are domain shifts between training and test data. While existing studies have
