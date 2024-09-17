@@ -46,6 +46,6 @@ The codebased include 3 folders:
 Note: Each with their own ReadMe Files 
 
 
-# Contacts
+## Contacts
 Mabon Ninan ninanmm@mail.uc.edu
 Boyang Wang boyang.wang@uc.edu
