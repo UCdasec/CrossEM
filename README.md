@@ -14,19 +14,18 @@ Mabon Ninan, Evan Nimmo, Shane Reilly, Channing Smith, Wenhai Sun, Boyang Wang, 
 
 
 ## Requirements
-This project is written in Python 3.8, Tensorflow 2.3.1 and Pytorch 2.0 . 
-Our experiments is running with:
+This project is written in Python 3.8, Tensorflow 2.3.1 and Pytorch 2.0. Our experiments were performed on the following machines:
 
 * GPU machine (Intel i9 CPU, 128GB memory,and a NVIDIA  NVIDIA 4080 GPU).
 * GPU Server (Optional for accelarted Performance:AMD EPYC 7742 64-Core processor with 512 gB memory and 4 NVIDIA A100-SXM GPU)
 
-## Datasets (**Access is limited to our lab members only at this point**) 
+## Datasets 
 
-Our datasets used in this study can be accessed through the link below (last modified March 2023):
+Our datasets used in this study can be accessed through the link below (last modified: **Sept. 2024**):
 
 https://mailuc-my.sharepoint.com/:f:/g/personal/wang2ba_ucmail_uc_edu/EmwWSN0WkY1HuYST2xfZ5Q4Baw0hJ15QHtPuC2tIcPCQNQ?e=k7HPUq
 
-Note: the above link need to be updated every 6 months due to certain settings of OneDrive. If you find the links are expired and you cannot access the data, please feel free to email us (boyang.wang@uc.edu). We will be update the links as soon as we can. Thanks!
+Note: the above link need to be updated every 6 months due to certain settings of OneDrive. If you find the links are expired and you cannot access the data, please feel free to email us (boyang.wang@uc.edu). We will be update the links as soon as we can (typically within 1~2 days). Thanks!
 
 ## Code:
 The codebased include 3 folders: 
@@ -49,5 +48,4 @@ Note: Each with their own ReadMe Files
 
 # Contacts
 Mabon Ninan ninanmm@mail.uc.edu
-
-Boyang Wang wang2ba@ucmail.uc.edu
+Boyang Wang boyang.wang@uc.edu
