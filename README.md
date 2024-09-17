@@ -1,10 +1,12 @@
-# A Second Look at the Portability of Deep Learning Side-Channel Attacks over EM Traces
+# CrossEM
+**The dataset and code are for research purpose only**
 
 Deep learning side-channel attacks can recover encryption keys on a target by analyzing power consumption or electromagnetic (EM)
 signals. However, they are less portable when there are domain shifts between training and test data. While existing studies have
 shown that pre-processing and unsupervised domain adaptation can enhance the portability of deep learning side-channel attacks
 given domain shifts over EM traces, the findings are limited to easy targets (e.g. 8-bit microcontrollers).
-In this paper, we investigate the portability of deep learning side-channel attacks over EM traces acquired from more challeng-
+
+In this project, we investigate the portability of deep learning side-channel attacks over EM traces acquired from more challeng-
 ing targets, including 32-bit microcontrollers and EM traces with random delay. We study domain shifts introduced by the combina-
 tion of hardware variations, distinct keys, and inconsistent probe locations between two targets. In addition, we perform compar-
 ative analyses of multiple existing (and new) pre-processing and unsupervised domain adaptation methods. We conduct a series of
@@ -14,12 +16,9 @@ however, varies depending on the target and probe locations in use. In other wor
 not necessarily generalize to challenging targets. (3) None of the methods can constantly outperform others. Moreover, we highlight
 two types of pitfalls that could lead to over-optimistic attack results in cross-device evaluations. We also contribute a large-scale public
 dataset (with 3 million EM traces from 9 probe locations over multiple targets) for benchmarking and reproducibility of side-channel
-attacks tackling domain shifts over EM traces 
+attacks tackling domain shifts over EM traces.  
 
-# This paper establishes a large-scale EM dataset for side-channel attacks from 8-bit and 32-bit targets using TinyAES, with samples taken from 9 different locations for each chip.
-
-
-**The dataset and code are for research purpose only**
+# This project establishes a large-scale EM dataset for side-channel attacks from 8-bit and 32-bit targets using TinyAES, with samples taken from 9 different locations for each chip.
 
 ## Reference
 When reporting results that use the dataset or code in this repository, please cite the paper below:
