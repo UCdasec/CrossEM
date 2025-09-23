@@ -19,6 +19,8 @@ This project is written in Python 3.8, Tensorflow 2.3.1 and Pytorch 2.0. Our exp
 * GPU machine (Intel i9 CPU, 128GB memory,and a NVIDIA  NVIDIA 4080 GPU).
 * GPU Server (Optional for accelarted Performance:AMD EPYC 7742 64-Core processor with 512 gB memory and 4 NVIDIA A100-SXM GPU)
 
+**Please note that a different version of Tensorflow may prevent one from obtaining consistent observations as ours when reproducing results. The same version of Tensorflow is recommanded.**
+
 ## Datasets 
 
 Our datasets used in this study can be accessed through the link below (last modified: **September 2025**):
